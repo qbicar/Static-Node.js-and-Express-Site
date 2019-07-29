@@ -1,0 +1,83 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator ",
+            "description": "An app that displays random famous quotes each time a button is clicked.",
+            "technologies": [
+                "Javascript",
+                "Google Developer Tools"
+            ],
+            "live_link": "https://qbicar.github.io/techdegree-project-1/",
+            "github_link": "https://github.com/qbicar/techdegree-project-1",
+            "image_urls": [
+                "data:image/png;base64,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",
+                "data:image/png;base64,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"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
+            "description": "Use pagination to enhance the usability of a web page.",
+            "technologies": [
+                "",
+                ""
+            ],
+            "live_link": "https://qbicar.github.io/project-2-/",
+            "github_link": "https://github.com/qbicar/project-2-",
+            "image_urls": [
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Enhance an interactive registration form for a fictional conference called 'FullStack Conf'",
+            "technologies": [
+                "Javascript",
+                "jQuery"
+            ],
+            "live_link": "https://qbicar.github.io/project-3/",
+            "github_link": "https://github.com/qbicar/project-3",
+            "image_urls": [
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "An online word guessing game ",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "Google Developer Tools",
+                "CSS"
+            ],
+            "live_link": "https://qbicar.github.io/Project-4/",
+            "github_link": "https://github.com/qbicar/Project-4",
+            "image_urls": [
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "Created a app for a startup company to display their employees",
+            "technologies": [
+                "Javascript",
+                "Ajax",
+                "Fetch API",
+                "Git commands"
+            ],
+            "live_link": "https://qbicar.github.io/Public-API-Request/",
+            "github_link": "https://github.com/qbicar/Public-API-Request",
+            "image_urls": [
+                "",
+                ""
+            ]
+        }
+    ]
+}

@@ -29,8 +29,9 @@
             "github_link": "https://github.com/qbicar/project-2-",
             "main_image_url": "/static/imgs/proj2/mainp2.png",
             "image_url": [
-                "",
-                ""
+                "/static/imgs/proj2/2_2.PNG",
+                "/static/imgs/proj2/2_3.PNG",
+                "/static/imgs/proj2/2_4.PNG"
             ]
         },
         {
@@ -45,8 +46,9 @@
             "github_link": "https://github.com/qbicar/project-3",
             "main_image_url": "/static/imgs/proj3/mainp3.png",
             "image_url": [
-                "",
-                ""
+                "/static/imgs/proj3/3_2.PNG",
+                "/static/imgs/proj3/3_3.PNG",
+                "/static/imgs/proj3/3_4.PNG"
             ]
         },
         {
@@ -63,8 +65,9 @@
             "github_link": "https://github.com/qbicar/Project-4",
             "main_image_url": "/static/imgs/proj4/mainp4.png",
             "image_url": [
-                "",
-                ""
+                "/static/imgs/proj4/4_2.PNG",
+                "/static/imgs/proj4/4_3.PNG",
+                "/static/imgs/proj4/4_4.PNG"
             ]
         },
         {
@@ -81,8 +84,9 @@
             "github_link": "https://github.com/qbicar/Public-API-Request",
             "main_image_url": "/static/imgs/proj5/mainp5.png",
             "image_url": [
-                "",
-                ""
+                "/static/imgs/proj5/5.PNG",
+                "/static/imgs/proj5/5_2.PNG",
+                "/static/imgs/proj5/5_3.PNG"
             ]
         }
     ]

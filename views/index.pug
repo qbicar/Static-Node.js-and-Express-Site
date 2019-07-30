@@ -5,23 +5,16 @@ block content
     div
 
       //- Add a title or heading like My Portfolio, or Hey, Potential Employers, or Let's make the web great together! 
-      h1 Hi Employeers
-
-      //- Add a description for your portfolio, what this project is, it's purpose, what it's suppossed to accomplish, etc. 
+      h1 Welcome To My Portfolio!
+      
       p.lead.text-light
-        | #{portfolioDescription}
+        | This Portfolio contains Javascript projects using jQuery, Express, Node, and Many More. Take a look around!
   article.grid-container.portfolio-index
     
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
-
-      //- Use the Pug `each` iterator to create a projet img, title and link in the markup for each of the projects you are showcasing.  
-      
-      //- Use a combination of interpolation and template literals as needed to dynamically generate the the routes in the href, as well as the img's src and the projects title.
-      
-      //- Here's what the Pug for each project example should look like.
-      each project in dataJson.projects
+      each project in projects
         .cell.projectcell
-          a(href='projects/' + project.id) Go to Project Page
+          a(href='projects/' + project.id ) Go to Project Page
             img.thumbnail(src=project.main_image_url)
             h5= project.project_name
     

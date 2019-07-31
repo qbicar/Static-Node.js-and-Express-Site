@@ -57,21 +57,24 @@ a:hover{
 }
 
 .portfolio-me{
+  font-weight: bold;
   padding: 20px;
   background-image: url('https://www.elsetge.cat/myimg/f/50-502797_palm-leaves-desktop-summer-backgrounds-for-computer.png');
-  color: #fff;
+  color: rgb(0, 0, 0);
   box-shadow: none !important;
 }
 
   .portfolio-me p{
+    
     font-size: 14px;
-    color: #999;
+    color: rgb(0, 0, 0);
   }
 
   .portfolio-me a{
+    
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: rgb(85, 85, 85);
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
